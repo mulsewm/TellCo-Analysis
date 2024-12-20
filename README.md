@@ -1,2 +1,3 @@
-# TellCo-Analysis
-Telecom Data Analysis and Dashboard Development Challenge for 10 Academy
+# TellCo Telecom Analysis
+
+This repository contains the analysis and dashboards for TellCo telecom data.
